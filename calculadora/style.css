@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(150, 150, 150, 150);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#dive {
+    text-align: center;
+    background-color: rgba(100, 100, 100, 100);
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+    left: 25%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.9);
+}
+
+#btnCalcular {
+    width: 10vw;
+    height: 5vh;
+    font-size: 20px;
+}
+
+input {
+    height: 2vh;
+}
+
